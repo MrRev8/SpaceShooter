@@ -3,6 +3,9 @@
 ## Descripción
 Recreación de un Space Shooter, que consiste en sobrevivir la mayor cantidad de tiempo posible mientras derrotas enemigos.
 
+##
+Para que corra correctamente el archivo del juego G2.py debe estar en un nivel superior al de la carpeta con los assets
+
 ## Controles
 - Flecha izquierda: Moverse hacia la izquierda
 - Flecha derecha: Moverse hacia la derecha
